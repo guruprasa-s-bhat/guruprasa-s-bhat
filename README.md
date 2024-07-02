@@ -1,4 +1,4 @@
-<img align="center" alt="profile" width="700" margin-left:"30" src="https://wallpapercave.com/wp/wp8904080.jpg">
+<img style="display: block; margin: 0 auto; width: 700px;" alt="profile" src="https://wallpapercave.com/wp/wp8904080.jpg">
 <h1 align="center">Hi 👋, I'm Guruprasad Bhat</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
